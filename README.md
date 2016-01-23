@@ -1,7 +1,7 @@
 # ESP8266-Temperature-Monitor
 Wifi enabled temperature monitor - with web api and uploading to Thingsspeak (https://thingspeak.com/)
 
-Also implements simple timed jobs, logging, json web api.
+Also implements simple timed jobs, logging, json web api, and setting time from an external web server.
 
 Uses:
 - ESP8266 v1
